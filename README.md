@@ -1,4 +1,4 @@
-# real-world-vue-course
+# real-world-vue
 
 ## Project setup
 ```
